@@ -1,0 +1,10 @@
+Given an array of integers. It is necessary to implement a method that returns array indices,
+the values of which add up to the number transferred to the array.
+
+The array is assumed to contain only unique numbers and always has the numbers you are looking for.
+The same element cannot be used twice.
+
+array = [3, 8, 15, 17], Number = 23
+result = [1,2]
+
+Those. indices 1 and 2 (value 8 and 15) add up to the desired number 23
